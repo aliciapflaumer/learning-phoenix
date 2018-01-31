@@ -18,6 +18,7 @@ defmodule LearningphoenixWeb.Router do
 
     get "/", PageController, :index
     get "/hello", LearningphoenixController, :index
+    get "/hello/:messenger", LearningphoenixController, :show
   end
 
   # Other scopes may use custom stacks.
