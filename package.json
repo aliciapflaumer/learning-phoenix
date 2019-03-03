@@ -1,0 +1,29 @@
+{
+  "name": "learningphoenix",
+  "version": "1.0.0",
+  "description": "I am building my first Phoenix application as I learn about the framework.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "lodash": ">=4.17.11",
+    "randomatic": ">=3.0.0",
+    "growl": ">=1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliciapflaumer/learning-phoenix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliciapflaumer/learning-phoenix/issues"
+  },
+  "homepage": "https://github.com/aliciapflaumer/learning-phoenix#readme"
+}
